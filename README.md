@@ -1,1 +1,1 @@
-# javascript
+# web初始化
