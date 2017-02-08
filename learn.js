@@ -30,11 +30,54 @@ console.log('对象');
 };
 
 console.log(ob.name);*/
-var a = 8/6;
+/*var a = 8/6;
 var i;
 for (i=1; i<=a; i++) {
     x = x + i;
 }
 
  
- console.log(x);
+ console.log(x);*/
+/*
+ var ob = {
+
+ };
+ ob.name = 'xiaoming';
+ delete ob.name;
+ var x = ob.hasOwnProperty('name'); //判断属性源自自身
+ console.log(x);*/
+
+ /*var x = 1;
+var i;
+for (i=2; i<=10; i++) {
+    //alert(i)
+    x = x * i;
+};
+console.log(x);
+if (x === 3628800) {
+    console.log('1 x 2 x 3 x ... x 10 = ' + x);
+}
+else {
+   console.log('计算错误');
+}*/
+
+/*var arr = ['apple','goole','alibaba'];
+var x;
+var i;
+for (i=0;i<arr.length;i++){
+    x = arr[i];
+    
+    console.log(x,arr.length);
+}*/
+//死循环
+/*var x = 0;
+for (;;){
+    console.log(x);
+}*/
+
+//location.reload();
+//location.assign('/');
+
+console.log('BOM','---','document');
+//console.log(document.cookie)
+
