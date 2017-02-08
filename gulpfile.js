@@ -5,6 +5,6 @@ gulp.task('browser-sync',function(){
         server:{
             bashDir:"./"
         },
-        files:['**/*.html','**/*.css']
+        files:['**/*.html','**/*.css','**/*.js']
     });
 });
