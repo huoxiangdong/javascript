@@ -19,3 +19,22 @@ alert(arr.length);
 alert('欢迎'+arr.slice(0,3)+'和'+arr[3]+'同学！');*/
 
 console.log('对象');
+// 多个属性   对象 与 方法 函数
+/*var ob = {
+    name: 
+         [1,2,4],
+    birth: 2,
+    school: 3,
+    height: 4,
+    weight: 5
+};
+
+console.log(ob.name);*/
+var a = 8/6;
+var i;
+for (i=1; i<=a; i++) {
+    x = x + i;
+}
+
+ 
+ console.log(x);
