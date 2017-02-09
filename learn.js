@@ -78,6 +78,15 @@ for (;;){
 //location.reload();
 //location.assign('/');
 
-console.log('BOM','---','document');
+console.log('BOM','---','document','a Key');
 //console.log(document.cookie)
+document.title = 'JavaScript learn';
+
+/*console.log('DOM','---');
+num = 10;
+foo();
+function foo(){
+    console.log(num);
+    num = 20;
+}*/
 
