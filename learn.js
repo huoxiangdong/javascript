@@ -89,4 +89,18 @@ function foo(){
     console.log(num);
     num = 20;
 }*/
+//遍历： 是指沿着某条搜索路线，一次对树中每个节点均做一次且仅做一次访问。
 
+console.log(document.querySelector('body > h1'));
+console.log(document.getElementsByTagName('h1'));
+
+//闭包 容器
+//面向接口 数据私有 可复用  容器内 )作用域  访问方法
+//面向实现
+
+
+//操作符
+//一元操作符  ++ -- + -
+//位操作符 非 ~ ，与 &，或 |，异或 ^,左移 <<,右移 >>>
+//---补充知识
+//二进制 1位==1bit，既 位==bit，计算机度量最小单位 
